@@ -605,32 +605,7 @@
   },
   {
     "stock": "SHARD_FIRE_EEL",
-    "id": "ATTRIBUTE_SHARD_TROPHY_HUNTER;1"
-  },
-  {
-    "stock": "SHARD_HIDEONBOX",
-    "id": "ATTRIBUTE_SHARD_TUNING_BOX;1"
-  },
-  {
-    "stock": "SHARD_GALAXY_FISH",
-    "id": "ATTRIBUTE_SHARD_ULTIMATE_DNA;1"
-  },
-  {
-    "stock": "SHARD_ZOMBIE_SOLDIER",
-    "id": "ATTRIBUTE_SHARD_UNDEAD;1"
-  },
-  {
-    "stock": "SHARD_REVENANT",
-    "id": "ATTRIBUTE_SHARD_UNDEAD_ESSENCE;1"
-  },
-  {
-    "stock": "SHARD_TANK_ZOMBIE",
-    "id": "ATTRIBUTE_SHARD_UNDEAD_RESISTANCE;1"
-  },
-  {
-    "stock": "SHARD_TADGANG",
-    "id": "ATTRIBUTE_SHARD_UNITY_IS_STRENGTH;1"
-  },
+    "id": "ATTRIBUTE_SHARD_T
   {
     "stock": "SHARD_ETHERDRAKE",
     "id": "ATTRIBUTE_SHARD_UNLIMITED_ENERGY;1"
